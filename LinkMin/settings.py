@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'LinkMin.wsgi.application'
+WSGI_APPLICATION = 'LinkMin.wsgi.app'
 
 
 # Database
